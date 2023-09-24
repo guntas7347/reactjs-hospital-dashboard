@@ -1,0 +1,4 @@
+export const BOOK_APPOINTMENT_TYPE = {
+  SET_PATIENT_DETALS: "bookAppointment/SET_PATIENT_DETALS",
+  SET_DOCTOR_DETAILS: "bookAppointment/SET_DOCTOR_DETALS",
+};

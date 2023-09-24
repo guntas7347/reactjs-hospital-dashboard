@@ -1,0 +1,13 @@
+.react-datepicker__day--selected {
+  background-color: #007bff !important; /* Blue color */
+  color: white; /* White text color for contrast */
+}
+.react-datepicker__day {
+  background-color: #42b983;
+  color: white;
+}
+/* Styling non-available dates */
+.react-datepicker__day--disabled {
+  background-color: #f0f0f0;
+  color: #ccc;
+}

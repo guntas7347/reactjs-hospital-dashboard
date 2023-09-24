@@ -1,0 +1,3 @@
+export const PATIENTS_LIST_TYPES = {
+  SET_PATIENTS_LIST: "patientsList/SET_PATIENTS_LIST",
+};
